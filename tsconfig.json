@@ -1,17 +1,13 @@
 {
   "compilerOptions": {
     "strict": true,
-    "module": "commonjs",
+    "module": "CommonJS",
     "moduleResolution": "Node",
     "declaration": true,
-    "declarationDir": "./dist/declarations",
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
     "allowJs": true,
     "target": "ES2021",
     "sourceMap": true,
     "outDir": "./dist",
-    "incremental": true,
     "noFallthroughCasesInSwitch": true,
     "resolveJsonModule": true,
     "importHelpers": true,
